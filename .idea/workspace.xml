@@ -4,14 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61630e22-f349-41a7-91f8-a089a4621716" name="Changes" comment="2. 변수">
-      <change afterPath="$PROJECT_DIR$/src/operator/OperationEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/OperationEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/OperationEx3.java" afterDir="false" />
+    <list default="true" id="61630e22-f349-41a7-91f8-a089a4621716" name="Changes" comment="3. 연산자">
+      <change afterPath="$PROJECT_DIR$/src/condition/DistanceEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/ExchangeRateEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/FindBiggerInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/FindEvenOddEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/GradeSwitchEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/RatingEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/ScoreEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/VarEX1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/VariableEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/VarEX2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/VariableEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/VarEX3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/VariableEx3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ConditionEx1.executor": "Run",
+    "Application.ConditionEx2.executor": "Run",
+    "Application.ConditionEx3.executor": "Run",
+    "Application.ConditionEx4.executor": "Run",
+    "Application.ConditionEx5.executor": "Run",
+    "Application.FindBiggerInt.executor": "Run",
+    "Application.FindEvenOddEx.executor": "Run",
     "Application.HelloJava.executor": "Run",
+    "Application.If3.executor": "Run",
     "Application.OperEX1.executor": "Run",
     "Application.OperationEx1.executor": "Run",
     "Application.OperationEx2.executor": "Run",
@@ -63,14 +72,17 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="variable" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="condition" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.OperationEx3">
-    <configuration name="OperationEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.OperationEx1" />
+  <component name="RunManager" selected="Application.FindEvenOddEx">
+    <configuration name="ExchangeRateEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="condition.ExchangeRateEx" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.*" />
+          <option name="PATTERN" value="condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.OperationEx2" />
+    <configuration name="FindBiggerInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="condition.FindBiggerInt" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.*" />
+          <option name="PATTERN" value="condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.OperationEx3" />
+    <configuration name="FindEvenOddEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="condition.FindEvenOddEx" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.*" />
+          <option name="PATTERN" value="condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.VariableEx2" />
+    <configuration name="GradeSwitchEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="condition.GradeSwitchEx" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.VariableEx3" />
+    <configuration name="RatingEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="condition.RatingEx" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OperationEx3" />
-        <item itemvalue="Application.OperationEx2" />
-        <item itemvalue="Application.OperationEx1" />
-        <item itemvalue="Application.VariableEx3" />
-        <item itemvalue="Application.VariableEx2" />
+        <item itemvalue="Application.FindEvenOddEx" />
+        <item itemvalue="Application.FindBiggerInt" />
+        <item itemvalue="Application.GradeSwitchEx" />
+        <item itemvalue="Application.RatingEx" />
+        <item itemvalue="Application.ExchangeRateEx" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +176,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709081194217</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2. 변수">
+      <option name="closed" value="true" />
+      <created>1709094152211</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709094152211</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3. 연산자">
+      <option name="closed" value="true" />
+      <created>1709094204736</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709094204736</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,7 +208,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2. 변수" />
-    <option name="LAST_COMMIT_MESSAGE" value="2. 변수" />
+    <MESSAGE value="3. 연산자" />
+    <option name="LAST_COMMIT_MESSAGE" value="3. 연산자" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
