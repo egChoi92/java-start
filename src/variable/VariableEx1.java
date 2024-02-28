@@ -1,6 +1,6 @@
 package variable;
 
-public class VarEX1 {
+public class VariableEx1 {
     public static void main(String[] args) {
         int num1 = 4;
         int num2 = 3;
