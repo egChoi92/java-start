@@ -13,6 +13,7 @@ public class Casting3 {
 
         double div4 = (double) 3 / 2;
         System.out.println("div4 = " + div4);
-
     }
+
+
 }
