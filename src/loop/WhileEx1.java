@@ -8,5 +8,6 @@ public class WhileEx1 {
             System.out.println("count = " + count);
             count++;
         }
+
     }
 }
